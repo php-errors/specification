@@ -1,5 +1,9 @@
 {
-    "name": "php-errors/specification",
+    "name": "errors/specification",
+    "description": "Error specification documents, and associated testing tools for ensuring conformance.",
+    "keywords": ["error", "specification"],
+    "homepage": "https://github.com/php-errors/exceptions",
+    "license": "MIT",
     "authors": [
         {
             "name": "Erin Millard",
