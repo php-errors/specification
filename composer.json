@@ -1,0 +1,13 @@
+{
+    "name": "php-errors/specification",
+    "authors": [
+        {
+            "name": "Erin Millard",
+            "email": "ezzatron@gmail.com",
+            "homepage": "http://ezzatron.com/"
+        }
+    ],
+    "bin": [
+        "test/exception-based-error-handler"
+    ]
+}

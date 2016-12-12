@@ -1,4 +1,4 @@
-# Specifications
+# Open PHP Error Handler Specifications
 
 This repository contains specification documents published by the PHP Errors
 organization, along with testing tools for ensuring spec conformance.
